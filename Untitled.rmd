@@ -1,0 +1,7 @@
+---
+title: "Here are some plots"
+output: 
+  html_document:
+    theme: cerulean
+---
+

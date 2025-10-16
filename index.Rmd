@@ -1,0 +1,29 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Sukh's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+You can do everything you usually do 
+
+That means you can add text 
+
+this website is an exmaple coming from [p8105](https://p8105.com/index.html). Making websites today
+
+I also use [Google](https://www.google.com/) a lot
+
+This wesbite was coded by sukh using RMarkdown to do all the hardwork. Learn more about this site [Here](about.html).
+
+To show that you can just use R like normal, check out this page with some [Plots](plots.html).
+
+
+
+Here is a pic of:![](images/Naus.jpg)
+
