@@ -1,24 +1,41 @@
 ---
-title: "Here are some plots"
-output: 
+title: "Projects"
+output:
   html_document:
+    theme: darkly
 ---
 
-```{r}
-library(tidyverse)
-```
+# 📊 Projects & Research Highlights
 
-```{r Plots}
-plot_df = 
-  tibble(
-    x = rnorm(100, mean = 1, sd = 2),
-    y = 1 + 2 * x + rnorm(100)
-  )
+Welcome to my project portfolio — a collection of academic, quantitative, and data-driven work that reflects my interests at the intersection of **epidemiology, data science, and health equity**.  
+Each project emphasizes rigorous analytic methods, clear visualization, and reproducible workflows.
 
-plot_df |>
-  ggplot(aes(x = x, y = y)) +
-  geom_point()
-```
+---
 
+## 🧬 Structural Racism and Cervical Cancer Outcomes  
+**Llanos Lab, Columbia University | 2025 – Present**
 
-Go back to the [homepage](index.html).
+- Conducting a large-scale **systematic review** examining structural racism and disparities in cervical cancer incidence, survival, and screening.  
+- Leading data extraction in Covidence across >20 peer-reviewed studies.  
+- Mapping exposure–outcome pathways involving healthcare access, socioeconomic status, and neighborhood-level structural inequities.  
+- Synthesizing results for manuscript submission and national presentation.  
+- Collaborating on NIH-funded work integrating epidemiologic frameworks and equity metrics.
+
+---
+
+## 💡 NHANES Analysis: Income and Obesity in U.S. Adults  
+**Columbia University, P8105 Final Project | 2025**
+
+- Analyzed **NHANES 2017–2018** data to evaluate the association between **household income** and **obesity prevalence** among adults.  
+- Applied **multivariable logistic regression** controlling for gender, age, and physical activity using **SAS** and **R**.  
+- Tested **gender as an effect modifier** and visualized stratified estimates using `ggplot2`.  
+- Produced publication-quality figures and tables aligned with CDC obesity metrics.
+
+```r
+# Example visualization from project
+library(ggplot2)
+ggplot(nhanes_data, aes(x = income_quintile, y = obesity_rate, fill = sex)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Obesity Prevalence by Income Quintile and Sex",
+       x = "Household Income Quintile", y = "Obesity Rate (%)") +
+  theme_minimal()

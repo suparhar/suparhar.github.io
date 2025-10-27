@@ -12,7 +12,7 @@ output:
 
 I’m a Master of Public Health student in Epidemiology at Columbia University, where I focus on quantitative methods and the intersection of data, health, and equity. My background spans epidemiologic research, statistical modeling, and systems-level analyses of structural determinants of health.
 
-Currently, I’m a Quantitative Foundations Teaching Assistant at Columbia and a research assistant in the Llanos Lab, where I’m leading systematic reviews on structural racism and cervical cancer outcomes. I also work on large-scale epidemiologic analyses using datasets such as NHANES and NYC health surveys.
+Currently, I’m a Quantitative Foundations Teaching Assistant at Columbia and a research assistant in the Llanos Lab, where I’m leading systematic reviews on structural racism and cervical cancer outcomes. 
 
-I’m passionate about applying rigorous quantitative tools to improve decision-making in healthcare, policy, and industry. My long-term interests lie at the intersection of data science, epidemiology, and impact — whether that’s in public health research, consulting, or biotech analytics.
+I’m passionate about applying quantitative tools to improve decision-making in healthcare, policy, and industry. My long-term interests lie at the intersection of data science, epidemiology, and impact, whether that’s in public health research, consulting, or biotech analytics.
 
