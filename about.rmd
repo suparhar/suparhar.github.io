@@ -1,9 +1,144 @@
 ---
-title: "About"
-output: 
+title: "Academic & Professional Experience"
+output:
   html_document:
+    theme: darkly
 ---
 
-This is my about doc
+## About Me
 
-Go back to the [homepage](index.html).
+I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia University’s Mailman School of Public Health* (GPA: 4.04). My work sits at the intersection of **data science, epidemiologic research, and structural determinants of health**. I am passionate about using quantitative methods to improve health equity and decision-making in public health, clinical research, and policy.
+
+---
+
+## Education
+
+**Columbia University, Mailman School of Public Health**  
+*Master of Public Health, Epidemiology* — *Expected April 2026*  
+- Certificate: Advanced Epidemiology  
+- GPA: 4.044  
+
+**University of Michigan, Ann Arbor**  
+*Bachelor of Science, Public Health Sciences with Distinction* — *April 2024*  
+- GPA: 3.9  
+- Awards: James B. Angell Scholar, University Honors  
+
+---
+
+## Research & Academic Experience
+
+**Columbia University Mailman School of Public Health**  
+*Quantitative Foundations Teaching Assistant* — *Aug 2025 – Present*  
+- Lead weekly labs and office hours for graduate-level biostatistics students.  
+- Provide R-based tutorials and grading support for epidemiologic data analysis assignments.  
+- Emphasize reproducibility, coding clarity, and applied quantitative reasoning.
+
+**Research Intern — Llanos Lab, Columbia University** — *June 2025 – Present*  
+- Conduct systematic reviews on **structural racism and cervical cancer outcomes**.  
+- Extract and code data in Covidence for studies across structural measures, exposures, and survival outcomes.  
+- Support manuscript writing and results synthesis for ongoing NIH-funded projects.
+
+**Stanford Medicine — Center for Asian Health Research and Education (CARE)**  
+*Research Scholar* — *April 2023 – Present*  
+- Led analyses on **sleep disparities and mental health** across Asian-American subgroups using NHIS data.  
+- Conducted **brain cancer grading and mortality** analyses using SEER.  
+- Presented findings at the **Stanford CARE Summer Symposium** and **American Academy of Neurology**.  
+- Contributed to the integration of findings into **Stanford Medicine’s Asian Health curriculum**.
+
+**Marginalization-Related Diminished Returns Research Center (MRDRC)**  
+*Research Assistant* — *2021 – 2024*  
+- Analyzed the effects of **race, ethnicity, and socioeconomic status** on health outcomes during COVID-19.  
+- Audited and reviewed manuscripts examining marginalization-related health disparities.  
+
+**Functional Neuroimaging, Cognitive, and Mobility Lab — University of Michigan**  
+*Research Assistant* — *April – September 2021*  
+- Managed HIPAA-compliant datasets across five longitudinal neuroimaging studies.  
+- Processed cognitive and gait data for older adult participants using REDCap and MATLAB.  
+
+---
+
+## Clinical Experience
+
+**New York Retina Center**  
+*Optometric Technician* — *September 2024 – June 2025*  
+- Collected patient histories and performed **retinal imaging, OCT, and visual acuity assessments**.  
+- Managed pre-testing, documentation, and patient flow in a high-volume clinical setting.  
+- Gained hands-on experience in ophthalmologic care and diagnostic testing.
+
+---
+
+## Leadership, Mentorship & Service
+
+**Mentor — Columbia University Mailman School of Public Health**  
+*September 2025 – Present*  
+- Mentor first-year MPH students in Epidemiology, supporting academic and professional development.  
+- Guide mentees on quantitative coursework, research strategy, and time management.
+
+**Chair, COVID-19 People of Color Impact Task Force — University of Michigan Student Government**  
+*June 2021 – February 2022*  
+- Designed and analyzed a university-wide survey on **COVID-19 vaccine disparities**.  
+- Allocated funding to support equity-driven campus health initiatives.  
+- Led three successful grant submissions and authored funding proposals for outreach efforts.
+
+**Biology Study Group Facilitator — University of Michigan**  
+*August 2021 – April 2024*  
+- Led weekly sessions for 25+ students and developed study materials and exam prep tools.  
+- Mentored 80+ students pursuing pre-health pathways.  
+
+**Undergraduate Ambassador — University of Michigan School of Public Health**  
+*August 2022 – June 2024*  
+- Represented the undergraduate Public Health program in student panels, admissions events, and mentorship initiatives.  
+- Supported outreach to prospective students and assisted with departmental programming.
+
+---
+
+## Volunteering & Community Engagement
+
+**Refugee English Tutor — End the Cycle**  
+*March 2022 – May 2024*  
+- Taught conversational and academic English to Afghan and Middle Eastern refugees resettling in Michigan.  
+- Designed personalized learning plans and integrated cross-cultural education materials.
+
+**Mathematics Tutor — End the Cycle**  
+*October 2020 – June 2024*  
+- Tutored high school students in the Washtenaw County Juvenile Detention Center and Grace Centers for Hope.  
+- Helped at-risk youth work toward a GED or high school diploma.
+
+**End the Cycle Outreach Chair — End the Cycle**  
+*August 2022 – August 2023*  
+- Directed community outreach programs serving marginalized youth and refugee families.  
+- Coordinated volunteers and tutoring schedules across multiple Michigan counties.
+
+**Volunteer Connection Lead — American Red Cross**  
+*December 2022 – Present*  
+- Serve as liaison for volunteer recruitment and engagement initiatives.  
+- Coordinate communication between local chapters and regional volunteer offices.
+
+**Volunteer — American Red Cross**  
+*September 2018 – Present*  
+- Participate in health education and emergency response initiatives across the Midwest region.  
+- Assist with community blood drives and disaster preparedness campaigns.
+
+**Advocacy Lead — Partners In Health Engage**  
+*June 2023 – June 2024*  
+- Led public health advocacy efforts promoting global health equity and universal access to care.  
+- Coordinated team events supporting Partners In Health policy campaigns.
+
+**Volunteer — American Cancer Society**  
+*October 2024 – Present*  
+- Assist with event coordination and fundraising campaigns for cancer prevention and awareness.
+
+---
+
+## Technical Skills
+
+- **Programming:** R, Python, C++, SQL, SAS, STATA  
+- **Languages:** Punjabi (fluent), Spanish (intermediate), ASL (intermediate)  
+
+---
+
+## Connect
+
+You can view my full professional profile and updates on [**LinkedIn**](https://www.linkedin.com/in/sukhman-parhar-9732b4205/),  
+explore my data and code on [**GitHub**](https://github.com/suparhar),  
+or find me on [**Instagram**](https://www.instagram.com/sukhmanparhar/),   [**Twitter / X**](https://twitter.com/sukhmanparhar), and [**Letterboxd**](https://letterboxd.com/sukhmanparhar/).

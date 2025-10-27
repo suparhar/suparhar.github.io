@@ -1,29 +1,18 @@
 ---
-title: "My awesome website"
+title: "Sukhman Parhar"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Sukh's awesome website
+<h1>👋 Hi, I’m Sukhman Parhar</h1>
+<img src="images/Sukhman Headshot.jpeg" width="250" style="border-radius:15px; display:block; margin:auto;">
+<h3>MPH in Epidemiology | Quantitative Researcher | Data & Health Science Enthusiast</h3>
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+I’m a Master of Public Health student in Epidemiology at Columbia University, where I focus on quantitative methods and the intersection of data, health, and equity. My background spans epidemiologic research, statistical modeling, and systems-level analyses of structural determinants of health.
 
+Currently, I’m a Quantitative Foundations Teaching Assistant at Columbia and a research assistant in the Llanos Lab, where I’m leading systematic reviews on structural racism and cervical cancer outcomes. I also work on large-scale epidemiologic analyses using datasets such as NHANES and NYC health surveys.
 
-You can do everything you usually do 
-
-That means you can add text 
-
-this website is an exmaple coming from [p8105](https://p8105.com/index.html). Making websites today
-
-I also use [Google](https://www.google.com/) a lot
-
-This wesbite was coded by sukh using RMarkdown to do all the hardwork. Learn more about this site [Here](about.html).
-
-To show that you can just use R like normal, check out this page with some [Plots](plots.html).
-
-
-
-Here is a pic of:![](images/Naus.jpg)
+I’m passionate about applying rigorous quantitative tools to improve decision-making in healthcare, policy, and industry. My long-term interests lie at the intersection of data science, epidemiology, and impact — whether that’s in public health research, consulting, or biotech analytics.
 
