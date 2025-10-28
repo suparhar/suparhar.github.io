@@ -39,8 +39,7 @@ x = ~n,
 y = ~aisle,
 type = "bar",
 orientation = "h",
-color = ~aisle,
-colors = "Purples"
+color = ~aisle
 ) |>
 layout(
 title = "`Top 10 Most Ordered Aisles`",
@@ -90,8 +89,7 @@ x = ~reorder_rate,
 y = ~department,
 type = "bar",
 orientation = "h",
-color = ~department,
-colors = "Greens"
+color = ~department
 ) |>
 layout(
 title = "`Average Reorder Rate by Department`",
