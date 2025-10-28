@@ -1,0 +1,101 @@
+---
+title: "Instacart Interactive Dashboard"
+author: "Sukhman Parhar"
+date: "2025-10-27"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(plotly)
+library(p8105.datasets)
+library(flexdashboard)
+
+data("instacart")
+
+instacart = instacart |>
+  mutate(order_dow = factor(order_dow, 
+                            labels = c("Sunday", "Monday", "Tuesday", "Wednesday", 
+                                       "Thursday", "Friday", "Saturday")))
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Top 10 Most Popular Aisles
+
+```{r Top_aisles, echo=FALSE}
+aisle_counts = instacart |>
+count(aisle, sort = TRUE) |>
+slice_head(n = 10) |>
+mutate(aisle = fct_reorder(aisle, n))
+
+plot_ly(
+data = aisle_counts,
+x = ~n,
+y = ~aisle,
+type = "bar",
+orientation = "h",
+color = ~aisle,
+colors = "Purples"
+) |>
+layout(
+title = "`Top 10 Most Ordered Aisles`",
+xaxis = list(title = "`Number of Orders`"),
+yaxis = list(title = "`Aisle`")
+)
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Average Order Hour by Day of Week
+
+```{r AVG_hours, echo=FALSE}
+hour_summary = instacart |>
+group_by(order_dow) |>
+summarize(avg_hour = mean(order_hour_of_day, na.rm = TRUE))
+
+plot_ly(
+data = hour_summary,
+x = ~order_dow,
+y = ~avg_hour,
+type = "scatter",
+mode = "lines+markers",
+line = list(color = "#5DADE2", width = 3)
+) |>
+layout(
+title = "`Average Order Hour by Day of Week`",
+xaxis = list(title = "`Day of Week`"),
+yaxis = list(title = "`Average Hour (0–23)`")
+)
+```
+
+### Reorder Rate by Department
+
+```{r reorder, echo=FALSE}
+dept_reorder = instacart |>
+group_by(department) |>
+summarize(reorder_rate = mean(reordered, na.rm = TRUE)) |>
+arrange(desc(reorder_rate)) |>
+mutate(department = fct_reorder(department, reorder_rate))
+
+plot_ly(
+data = dept_reorder,
+x = ~reorder_rate,
+y = ~department,
+type = "bar",
+orientation = "h",
+color = ~department,
+colors = "Greens"
+) |>
+layout(
+title = "`Average Reorder Rate by Department`",
+xaxis = list(title = "`Reorder Rate`"),
+yaxis = list(title = "`Department`")
+)
+```
