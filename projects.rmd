@@ -8,7 +8,6 @@ output:
 # Projects & Research Highlights
 
 Welcome to my project portfolio — a collection of academic, quantitative, and data-driven work that reflects my interests at the intersection of **epidemiology, data science, and health equity**.  
-Each project emphasizes rigorous analytic methods, clear visualization, and reproducible workflows.
 
 ---
 
@@ -16,7 +15,7 @@ Each project emphasizes rigorous analytic methods, clear visualization, and repr
 **Llanos Lab, Columbia University | 2025 – Present**
 
 - Conducting a large-scale **systematic review** examining structural racism and disparities in cervical cancer incidence, survival, and screening.  
-- Leading data extraction in Covidence across >20 peer-reviewed studies.  
+- Leading data extraction in Covidence across >100 peer-reviewed studies.  
 - Mapping exposure–outcome pathways involving healthcare access, socioeconomic status, and neighborhood-level structural inequities.  
 - Synthesizing results for manuscript submission and national presentation.  
 - Collaborating on NIH-funded work integrating epidemiologic frameworks and equity metrics.
@@ -26,7 +25,7 @@ Each project emphasizes rigorous analytic methods, clear visualization, and repr
 You can view my research poster **“Geographic and Policy-Level Barriers in Cervical Cancer Care: A Systematic Review of Structural Racism and Survival Outcomes”** below:
 
 <p align="center">
-  <a href="files/Llanos_CervicalCancer_Poster.pdf" target="_blank" class="btn btn-primary" style="font-size:16px;">
+  <a href="files/Sukhman Parhar Apex poster.pdf" target="_blank" class="btn btn-primary" style="font-size:16px;">
     📄 View Poster (PDF)
   </a>
 </p>
@@ -35,7 +34,7 @@ You can view my research poster **“Geographic and Policy-Level Barriers in Cer
 ---
 
 ## Stanford Medicine — Center for Asian Health Research and Education (CARE)  
-**Research Scholar | 2023 – 2024**
+**Research Scholar | 2023 – 2025**
 
 At Stanford CARE, I worked on two quantitative projects focused on health disparities in **disaggregated Asian-American** populations.
 

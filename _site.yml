@@ -13,8 +13,6 @@ navbar:
       href: https://github.com/suparhar
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/sukhman-parhar-9732b4205/
-    - text: "Instacart Dashboard"
-      href: nyc_rest.html
 output:
   html_document:
     theme: darkly
