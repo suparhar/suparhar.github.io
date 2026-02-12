@@ -8,7 +8,8 @@ always_allow_html: true
 ---
 ```{=html}
 
-<div id="particles-js"></div>
+<canvas id="dna-canvas"></canvas>
+
 
 <div class="topbar">
   <div class="name">
@@ -47,11 +48,8 @@ always_allow_html: true
   </div>
 </div>
 
-<script>
-  window.addEventListener("load", function () {
-    particlesJS.load("particles-js", "particles.json");
-  });
-</script>
+<script src="dna.js"></script>
+
 
 
 ```

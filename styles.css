@@ -10,14 +10,15 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
 }
 
-/* Interactive background layer */
-#particles-js {
+/* DNA canvas background */
+#dna-canvas {
   position: fixed;
   inset: 0;
   z-index: 0;
-  background: #dddddd;
-
+  width: 100%;
+  height: 100%;
 }
+
 
 /* Top bar */
 .topbar {
