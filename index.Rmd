@@ -39,7 +39,7 @@ always_allow_html: true
         My work spans <strong>statistical modeling</strong>, <strong>system-level analyses</strong>, and research on <strong>structural determinants of health</strong>.
       </p>
       <p>
-        Currently, I am a <strong>Quantitative Foundations Teaching Assistant</strong> and a research assistant in the Llanos Lab, leading systematic reviews on structural racism and cervical cancer outcomes.
+        Currently, I am a <strong>Clinical Technician</strong> at the New York Retina Center and a research assistant in the Llanos Lab, leading systematic reviews on structural racism and cervical cancer outcomes.
       </p>
     </div>
 

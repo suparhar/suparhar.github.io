@@ -5,6 +5,9 @@ output:
     theme: darkly
 ---
 
+<div class="content-wrap">
+
+
 ## About Me
 
 I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia University’s Mailman School of Public Health* (GPA: 4.04). My work sits at the intersection of **data science, epidemiologic research, and structural determinants of health**. I am passionate about using quantitative methods to improve health equity and decision-making in public health, clinical research, and policy.
@@ -132,7 +135,7 @@ I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia Univer
 
 ## Technical Skills
 
-- **Programming:** R, Python, C++, SQL, SAS, STATA  
+- **Programming:** R, Python, C++, SQL, SAS, STATA, LaTeX  
 - **Languages:** Punjabi (fluent), Spanish (intermediate), ASL (intermediate)  
 
 ---
@@ -142,3 +145,6 @@ I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia Univer
 You can view my full professional profile and updates on [**LinkedIn**](https://www.linkedin.com/in/sukhman-parhar-9732b4205/),  
 explore my data and code on [**GitHub**](https://github.com/suparhar),  
 or find me on [**Instagram**](https://www.instagram.com/sukhman_parhar/),   [**Twitter / X**](https://twitter.com/sukhmanparhar), and [**Letterboxd**](https://letterboxd.com/Suparhar/).
+
+</div>
+

@@ -5,9 +5,11 @@ output:
     theme: darkly
 ---
 
+<div class="content-wrap">
+
 # Projects & Research Highlights
 
-Welcome to my project portfolio — a collection of academic, quantitative, and data-driven work that reflects my interests at the intersection of **epidemiology, data science, and health equity**.  
+Welcome to my project portfolio.  
 
 ---
 
@@ -49,4 +51,5 @@ At Stanford CARE, I worked on two quantitative projects focused on health dispar
 - Identified significant differences in **tumor grade distribution** and **mortality rates** across subgroups, underscoring the need for **data disaggregation** in neuro-oncology.  
 - Contributed to modeling and interpretation included in the published abstract.
 
----
+
+</div>
