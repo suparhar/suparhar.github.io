@@ -20,7 +20,12 @@ always_allow_html: true
   </span>
 </div>
   <div class="icons">
-    <a href="Sukhman_Parhar_CV.pdf" aria-label="CV"><i class="fa-solid fa-file-lines"></i></a>
+    <a href="files/Sukhman_Parhar_Resume.pdf"
+   target="_blank"
+   rel="noopener"
+   aria-label="Resume">
+  <i class="fa-solid fa-file-lines"></i>
+</a>
     <a href="https://github.com/suparhar" aria-label="GitHub" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
     <a href="mailto:sp4436@cumc.columbia.edu" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
     <a href="https://www.linkedin.com/in/sukhman-parhar-9732b4205/" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
