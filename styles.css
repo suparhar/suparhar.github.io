@@ -15,7 +15,8 @@ body {
   position: fixed;
   inset: 0;
   z-index: 0;
-  background: #f2f2f2;
+  background: #dddddd;
+
 }
 
 /* Top bar */
@@ -66,7 +67,7 @@ body {
 
 .hero-card {
   width: min(920px, 92vw);
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(255, 255, 255, 0.88);
   border-radius: 16px;
   box-shadow: 0 12px 35px rgba(0,0,0,0.10);
   padding: 46px 52px;
