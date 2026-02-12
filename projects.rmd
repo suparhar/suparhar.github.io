@@ -4,52 +4,86 @@ output:
   html_document:
     theme: darkly
 ---
-
 <div class="content-wrap">
 
 # Projects & Research Highlights
-
-Welcome to my project portfolio.  
 
 ---
 
 ## Structural Racism and Cervical Cancer Outcomes  
 **Llanos Lab, Columbia University | 2025 – Present**
 
-- Conducting a large-scale **systematic review** examining structural racism and disparities in cervical cancer incidence, survival, and screening.  
+This project examines structural racism and disparities in cervical cancer incidence, survival, and screening through a large-scale systematic review.
+
+### Key Contributions
+- Conducting comprehensive systematic review of structural racism and cervical cancer outcomes.  
 - Leading data extraction in Covidence across >100 peer-reviewed studies.  
-- Mapping exposure–outcome pathways involving healthcare access, socioeconomic status, and neighborhood-level structural inequities.  
-- Synthesizing results for manuscript submission and national presentation.  
-- Collaborating on NIH-funded work integrating epidemiologic frameworks and equity metrics.
-
-### Poster: Geographic and Policy-Level Barriers in Cervical Cancer Care
-
-You can view my research poster **“Geographic and Policy-Level Barriers in Cervical Cancer Care: A Systematic Review of Structural Racism and Survival Outcomes”** below:
+- Mapping exposure–outcome pathways involving healthcare access, socioeconomic status, and neighborhood-level inequities.  
+- Synthesizing findings for manuscript submission and national presentation.  
+- Collaborating on NIH-funded research integrating epidemiologic frameworks and equity metrics.
 
 <p align="center">
-  <a href="files/Sukhman Parhar Apex poster.pdf" target="_blank" class="btn btn-primary" style="font-size:16px;">
-    📄 View Poster (PDF)
+  <a href="files/Sukhman Parhar Apex poster.pdf" target="_blank" class="btn btn-primary">
+    📄 View Research Poster
   </a>
 </p>
-
 
 ---
 
 ## Stanford Medicine — Center for Asian Health Research and Education (CARE)  
 **Research Scholar | 2023 – 2025**
 
-At Stanford CARE, I worked on two quantitative projects focused on health disparities in **disaggregated Asian-American** populations.
+Quantitative research focused on health disparities in disaggregated Asian-American populations.
 
-### Sleep and Mental Health Disparities in Asian-American Subgroups
-- Led statistical analyses using **NHIS** to examine relationships between **sleep duration**, **depressive symptoms**, and **mortality risk** across Asian-American subgroups.  
-- Built and visualized **multivariable regression models** to highlight **intra-Asian heterogeneity** in sleep and mental health patterns.  
-- Presented results at the **Stanford CARE Summer Symposium** and contributed to manuscripts and curriculum materials for **Stanford Medicine’s Asian Health** program.
+### Key Contributions
+- Led statistical analyses using NHIS to examine relationships between sleep duration, depressive symptoms, and mortality risk.  
+- Built and visualized multivariable regression models to highlight intra-Asian heterogeneity.  
+- Conducted subgroup analyses using SEER to assess glioma grading and mortality across East, South, and Southeast Asian populations.  
+- Contributed to modeling and interpretation included in a published abstract in *Neurology* (2024).
 
-### Differential Glioma Mortality and Grading in Asian-American Subgroups  
-**Published abstract in *Neurology* (2024): [Read here](https://www.neurology.org/doi/10.1212/WNL.0000000000206661)**  
-- Conducted subgroup analyses using **SEER** to assess **glioma (brain tumor) grading** and **mortality** among East, South, and Southeast Asian populations.  
-- Identified significant differences in **tumor grade distribution** and **mortality rates** across subgroups, underscoring the need for **data disaggregation** in neuro-oncology.  
-- Contributed to modeling and interpretation included in the published abstract.
+<p align="center">
+  <a href="https://www.neurology.org/doi/10.1212/WNL.0000000000206661" target="_blank" class="btn btn-primary">
+    📄 View Published Abstract
+  </a>
+</p>
 
+---
+
+## Sports Betting in the United States: Data Analysis and Predictive Modeling  
+**P8105 Data Science 1 | Final Project**
+
+End-to-end data analysis project examining state-level sports betting adoption, revenue generation, and policy environments.
+
+### Key Contributions
+- Collected, cleaned, and integrated United States Census data used throughout the analysis.  
+- Built and evaluated predictive models, including least absolute shrinkage and selection operator regression.  
+- Generated prediction and model performance figures used across the public-facing website.  
+- Contributed to interpretation and communication of results.
+
+<p align="center">
+  <a href="https://zakaribillo.com/sports-betting/index.html" target="_blank" class="btn btn-primary">
+    🔗 View Project Website
+  </a>
+</p>
+
+---
+
+## Dynamic Games and Predator–Prey Systems Using Markov Decision Processes  
+**MATH-UN2015: Linear Algebra and Probability | Final Project (Fall 2025)**
+
+Modeled predator–prey interactions as stochastic dynamic games using Markov Decision Processes, transition matrices, and linear algebraic value iteration.
+
+### Key Contributions
+- Formulated predator–prey dynamics as finite-state Markov processes with absorbing states.  
+- Encoded transitions and rewards using matrix and vector representations.  
+- Solved Bellman equations via matrix inversion to compute long-run value functions.  
+- Extended the model to a two-player stochastic game and analyzed Markov Perfect Equilibria.  
+- Co-developed state-space design and dynamic game structure.
+
+<p align="center">
+  <a href="files/Final Draft -- Solving Dynamic Games Using Markov Decision Processes and Linear Algebra (1) (1).pdf" target="_blank" class="btn btn-primary">
+    📄 View Final Paper
+  </a>
+</p>
 
 </div>
