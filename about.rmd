@@ -10,19 +10,19 @@ output:
 
 ## About Me
 
-I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia University’s Mailman School of Public Health* (GPA: 4.04). My work sits at the intersection of **data science, epidemiologic research, and structural determinants of health**. I am passionate about using quantitative methods to improve health equity and decision-making in public health, clinical research, and policy.
+I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia University’s Mailman School of Public Health*. My work sits at the intersection of **data science, epidemiologic research, and structural determinants of health**. I am passionate about using quantitative methods to improve health equity and decision-making in public health, clinical research, and policy.
 
 ---
 
 ## Education
 
 **Columbia University, Mailman School of Public Health**  
-*Master of Public Health, Epidemiology* — *Expected April 2026*  
+*Master of Public Health, Epidemiology* — *Expected May 2026*  
 - Certificate: Advanced Epidemiology  
-- GPA: 4.044  
+- GPA: 4.0 
 
 **University of Michigan, Ann Arbor**  
-*Bachelor of Science, Public Health Sciences with Distinction* — *April 2024*  
+*Bachelor of Science, Public Health Sciences with Distinction* 
 - GPA: 3.9  
 - Awards: James B. Angell Scholar, University Honors  
 
