@@ -1,18 +1,57 @@
 ---
-title: "Sukhman Parhar"
-output: 
+title: ""
+output:
   html_document:
-    toc: true
-    toc_float: true
+    toc: false
+    theme: null
+always_allow_html: true
 ---
+```{=html}
 
-<h1>👋 Hi, I’m Sukhman Parhar</h1>
-<img src="images/Sukhman Headshot.jpeg" width="250" style="border-radius:15px; display:block; margin:auto;">
-<h3>MPH in Epidemiology | Quantitative Researcher | Data & Health Science Enthusiast</h3>
+<div id="particles-js"></div>
 
-I’m a Master of Public Health student in Epidemiology at Columbia University, where I focus on quantitative methods and the intersection of data, health, and equity. My background spans epidemiologic research, statistical modeling, and systems-level analyses of structural determinants of health.
+<div class="topbar">
+  <div class="name">
+  Sukhman Parhar
+  <span class="navlinks">
+    <a href="about.html">About</a>
+    <a href="projects.html">Projects</a>
+  </span>
+</div>
+  <div class="icons">
+    <a href="Sukhman_Parhar_CV.pdf" aria-label="CV"><i class="fa-solid fa-file-lines"></i></a>
+    <a href="https://github.com/suparhar" aria-label="GitHub" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a>
+    <a href="mailto:sp4436@cumc.columbia.edu" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://www.linkedin.com/in/sukhman-parhar-9732b4205/" aria-label="LinkedIn" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
+  </div>
+</div>
 
-Currently, I’m a Quantitative Foundations Teaching Assistant at Columbia and a research assistant in the Llanos Lab, where I’m leading systematic reviews on structural racism and cervical cancer outcomes. 
+<div class="hero-wrap">
+  <div class="hero-card">
+    <img class="headshot" src="images/Sukhman_Headshot.jpeg" alt="Sukhman Parhar headshot"/>
 
-I’m passionate about applying quantitative tools to improve decision-making in healthcare, policy, and industry. My long-term interests lie at the intersection of data science, epidemiology, and impact, whether that’s in public health research, consulting, or biotech analytics.
+    <div class="bio">
+      <p>
+        I am a Master of Public Health student in Epidemiology at <strong>Columbia University</strong>, focused on quantitative methods at the intersection of data, health, and equity.
+      </p>
+      <p>
+        My work spans <strong>statistical modeling</strong>, <strong>system-level analyses</strong>, and research on <strong>structural determinants of health</strong>.
+      </p>
+      <p>
+        Currently, I am a <strong>Quantitative Foundations Teaching Assistant</strong> and a research assistant in the Llanos Lab, leading systematic reviews on structural racism and cervical cancer outcomes.
+      </p>
+    </div>
 
+    <div class="divider"></div>
+    <div class="copyright">© 2026 Sukhman Parhar</div>
+  </div>
+</div>
+
+<script>
+  window.addEventListener("load", function () {
+    particlesJS.load("particles-js", "particles.json");
+  });
+</script>
+
+
+```
