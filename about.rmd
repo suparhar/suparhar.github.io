@@ -136,7 +136,9 @@ I’m **Sukhman Parhar**, an MPH student in **Epidemiology** at *Columbia Univer
 ## Technical Skills
 
 - **Programming:** R, Python, C++, SQL, SAS, STATA, LaTeX  
-- **Languages:** Punjabi (fluent), Spanish (intermediate), ASL (intermediate)  
+- **Machine Learning & Statistical Learning:** Applied supervised and unsupervised learning through graduate coursework, including P8106 Data Science II and EPID 8451 Introduction to Machine Learning for Epidemiology (regularization and feature selection, cross-validation, tree-based methods, ensemble models, support vector machines, principal components analysis, clustering, and model evaluation in R).
+- **Languages:** Punjabi (fluent), Spanish (intermediate)
+
 
 ---
 
